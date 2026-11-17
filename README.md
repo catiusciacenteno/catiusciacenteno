@@ -1,13 +1,13 @@
 # Hi, I'm Catiuscia 👋
 
 💻 Software Engineering Intern  
-🚀 Focused on Python, Vue, and Go  
-📚 Building practical projects and improving every day  
+🚀 Focused on Python, Node, Vue, and Go  
 
 ---
 
 ## 🛠️ Tech Stack
 - Python
+- Node
 - Vue.js
 - Go
 
